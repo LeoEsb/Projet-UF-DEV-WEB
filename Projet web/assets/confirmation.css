@@ -1,0 +1,41 @@
+.screenbg{
+    background-image: url("img/photos/asus.png");
+    background-repeat: no-repeat;
+    background-position: center;   
+    width: 100%;
+    height: 690px;  
+}
+h1{
+   color: azure;
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bouton a {
+display:block;
+width:150px;
+line-height:50px;
+text-align:center;
+margin-left: 620px;
+margin-top: 40px;
+background:url(img/bouton-noir) no-repeat;
+color:white;
+text-decoration:none;
+}
+.bouton a:hover {
+background:url(img/bouton-noir-2) no-repeat;
+}
+.bouton1 a {
+display:block;
+width:150px;
+line-height:50px;
+text-align:center;
+margin-left: 620px;
+margin-top: 20px;
+background:url(img/bouton-noir) no-repeat;
+color:white;
+text-decoration:none;
+}
+.bouton1 a:hover {
+background:url(img/bouton-noir-2) no-repeat;
+}
+

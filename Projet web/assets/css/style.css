@@ -1,0 +1,23 @@
+/* === IMG ===*/
+
+img.bottom{
+    width: 20px;
+}
+
+img.size{
+    width: 30%;
+}
+img.sizesmall{
+    width: 20%;
+}
+img.sizebig{
+    width: 40%;
+}
+img.contact{
+    width: 30px;
+}
+img.close{
+    width: 50px;
+    padding-right: auto;
+}
+
